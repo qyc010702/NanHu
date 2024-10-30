@@ -1,0 +1,39 @@
+/* styles.css */
+.large-green-button {
+    background-color: green !important; /* 设置背景色为绿色 */
+    border-color: black !important; /* 设置边框颜色为绿色 */
+    color: white; /* 设置文字颜色为白色 */
+    padding: 32px 64px; /* 增加内边距，使按钮更大 */
+    font-size: 32px; /* 设置字体大小 */
+    text-align: center; /* 确保文本居中 */
+    display: flex; /* 使用 flexbox 布局 */
+    justify-content: center; /* 水平居中 */
+    align-items: center; /* 垂直居中 */
+}
+
+.large-yellow-button {
+    background-color: coral !important; /* 设置背景色为绿色 */
+    border-color: black !important; /* 设置边框颜色为绿色 */
+    color: white; /* 设置文字颜色为白色 */
+    padding: 32px 64px; /* 增加内边距，使按钮更大 */
+    font-size: 32px; /* 设置字体大小 */
+    text-align: center; /* 确保文本居中 */
+    display: flex; /* 使用 flexbox 布局 */
+    justify-content: center; /* 水平居中 */
+    align-items: center; /* 垂直居中 */
+}
+
+.large-blue-button {
+    background-color: blue !important; /* 设置背景色为绿色 */
+    border-color: black !important; /* 设置边框颜色为绿色 */
+    color: white; /* 设置文字颜色为白色 */
+    padding: 32px 64px; /* 增加内边距，使按钮更大 */
+    font-size: 32px; /* 设置字体大小 */
+    text-align: center; /* 确保文本居中 */
+    display: flex; /* 使用 flexbox 布局 */
+    justify-content: center; /* 水平居中 */
+    align-items: center; /* 垂直居中 */
+    margin-left: 10%;
+}
+
+
